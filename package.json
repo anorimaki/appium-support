@@ -29,7 +29,7 @@
     "build/lib"
   ],
   "dependencies": {
-    "@babel/runtime": "^7.0.0",
+    "@babel/runtime": "^7.6.3",
     "archiver": "^1.3.0",
     "bluebird": "^3.5.1",
     "bplist-creator": "^0",
